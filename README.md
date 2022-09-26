@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedernera Nicolas</h1>
 <h3 align="center">I am a 5 year student of Information Systems Engineering</h3>
 
-- 🌱 I’m currently learning **React, Node , Next-js**
+- 🌱 I’m currently learning **Nodejs ,Express, Nest **
 
 - 📫 How to reach me **nicopedernera12@gmail.com**
 
